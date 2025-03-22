@@ -69,3 +69,5 @@ Check out options in [types.ts](./src/types.ts).
 
 MIT.
 
+
+# PR Merge: 2026-07-27 07:29:54
